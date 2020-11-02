@@ -1,1 +1,5 @@
+.vscode
+
 .env-local
+addrs.json
+*.xml
